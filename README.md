@@ -32,7 +32,7 @@ If you don't want to install Git, you can download <a href="https://github.com/t
 ![Run FTPBruter on Parrot Security OS](https://raw.githubusercontent.com/GitHackTools/Store-the-pictures/master/FTPBruter%201.0%20-%20ParrotSec.png)
 ![Run FTPBruter on Windows 10](https://raw.githubusercontent.com/GitHackTools/Store-the-pictures/master/FTPBruter%201.0%20-%20Windows.png)
 
-# Thank you <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools</span></a> (myself) for programming this tool 🙂
+# Thank you <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">trhacknon</span></a> and GitHackTools for programming this tool 🙂
 
 # Note
 Your brute force speed may depend on your ping, victim's ping, your internet. Don't brute force with a big wordlist with a small RAM.
