@@ -12,7 +12,7 @@ def banner():
 | |         | |    | |      | |_) | | |    | |_| | | |_  |  __/ | |   
 |_|         |_|    |_|      |____/  |_|     \__,_|  \__|  \___| |_|   \033[1;93m1.0\033[0m
 \033[1;92m[i]\033[0m\033[37m FTPBruter - A FTP server Brute forcing tool written in Python 3
-    Author:\033[1;93m https://GitHackTools.blogspot.com \033[0m""")
+    Author:\033[1;93m https://github.com/trhacknon\033[0m""")
 
 def clear():
     if name == 'nt':
